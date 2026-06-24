@@ -1,0 +1,87 @@
+{
+  "version": 1782296269,
+  "generatedAt": "2026-06-24T10:17:49.176Z",
+  "count": 8,
+  "items": [
+    {
+      "id": "ndc:00002149580",
+      "label": "Mounjaro 5mg, 4 Prefilled Pen",
+      "drug": "Mounjaro",
+      "ndc": "0002-1495-80",
+      "isGroup": false,
+      "category": "Injectables",
+      "prices": { "Mint 9m+": 350, "Ding 6-8m": 290, "Damage 3-5m": 200 },
+      "notes": "Can take open, front seals, side seals, or all seals"
+    },
+    {
+      "id": "ndc:06340220230",
+      "label": "Aptiom 200 — 200mg, 30 count",
+      "drug": "Aptiom",
+      "ndc": "63402-202-30",
+      "isGroup": false,
+      "category": "Tablets",
+      "prices": { "Mint 9m+": 50, "Ding 6-8m": 40, "Damage 3-5m": 30 },
+      "notes": ""
+    },
+    {
+      "id": "ndc:00597008717",
+      "label": "Atrovent HFA 17mcg, 1 inhaler",
+      "drug": "Atrovent HFA",
+      "ndc": "0597-0087-17",
+      "isGroup": false,
+      "category": "Inhalers",
+      "prices": { "Mint 9m+": 15, "Ding 6-8m": 10, "Damage 3-5m": null },
+      "notes": "Check lot seal"
+    },
+    {
+      "id": "ndc:00169275013",
+      "label": "Lantus SoloStar 100u/mL, 5 pen box",
+      "drug": "Lantus",
+      "ndc": "0169-2750-13",
+      "isGroup": false,
+      "category": "Insulin",
+      "prices": { "Mint 9m+": 285, "Ding 6-8m": 240, "Damage 3-5m": 180 },
+      "notes": "Cold-chain — gel pack required"
+    },
+    {
+      "id": "ndc:00074098501",
+      "label": "Humira Pen 40mg/0.4mL, 2 pen carton",
+      "drug": "Humira",
+      "ndc": "0074-0985-01",
+      "isGroup": false,
+      "category": "Injectables",
+      "prices": { "Mint 9m+": 2890, "Ding 6-8m": 2400, "Damage 3-5m": 1900 },
+      "notes": ""
+    },
+    {
+      "id": "ndc:00006027731",
+      "label": "Januvia 100mg, 30 count",
+      "drug": "Januvia",
+      "ndc": "0006-0277-31",
+      "isGroup": false,
+      "category": "Tablets",
+      "prices": { "Mint 9m+": 498, "Ding 6-8m": null, "Damage 3-5m": null },
+      "notes": ""
+    },
+    {
+      "id": "grp:aimovig",
+      "label": "Aimovig — All",
+      "drug": "Aimovig",
+      "ndc": "0002-XXXX-99",
+      "isGroup": true,
+      "category": "Injectables",
+      "prices": { "Mint 9m+": null, "Ding 6-8m": null, "Damage 3-5m": null },
+      "notes": ""
+    },
+    {
+      "id": "grp:mounjaropen",
+      "label": "Mounjaro Prefilled Pen — All",
+      "drug": "Mounjaro",
+      "ndc": "0002-1490-99",
+      "isGroup": true,
+      "category": "Injectables",
+      "prices": { "Mint 9m+": 300, "Ding 6-8m": 300, "Damage 3-5m": 300 },
+      "notes": "Blanket deal — all strengths"
+    }
+  ]
+}
